@@ -8,9 +8,12 @@
   
 **For what do we use Git ?**  
 
--Version Control
--Collaboration
--Branching & Merging and so on...  
+-Version Control  
+
+-Collaboration  
+
+-Branching & Merging and so on...    
+
 
 ![**Git**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXsy8FDyJpLBYS4Lncoq-_o6FO0__AYKydQ&s)  
 
