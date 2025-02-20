@@ -6,7 +6,7 @@
   -Version Control
   -Collaboration
   -Branching & Merging and so on...
-  ![**Git**](https://www.thedailystar.net/tech-startup/news/git-ing-started-5-beginner-friendly-free-git-courses-3761931)
+  ![**Git**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXsy8FDyJpLBYS4Lncoq-_o6FO0__AYKydQ&s)
   [More information you can read here 👉 ](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
 
