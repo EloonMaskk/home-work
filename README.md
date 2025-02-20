@@ -1,8 +1,13 @@
-# **Git & Github**
-#**Git**
-**So what is Git ?** 
+# **Git & Github**  
+
+#**Git**  
+
+**So what is Git ?**  
+
 - Git is version controll system
+- 
 **For what do we use Git ?**
+  
 -Version Control
 -Collaboration
 -Branching & Merging and so on...
