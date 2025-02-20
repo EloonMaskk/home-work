@@ -1,5 +1,7 @@
-<h1 style="text-align:center;"># **Git & Github**</h1>  
+# **Git & Github**  
+
 # **Git**  
+
 **So what is Git ?**  
 
 - Git is version controll system
