@@ -1,4 +1,4 @@
-# **Git & Github**  
+<h1 style="text-align:center;"># **Git & Github**</h1>  
 # **Git**  
 **So what is Git ?**  
 
